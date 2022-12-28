@@ -1,0 +1,27 @@
+body {
+    background-color: darkgrey;
+    margin: 30px;
+}
+#title {
+    background-color: #f9fccf;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a{
+    border: 1px solid #000;
+padding: 2px;
+border-radius: 3px;
+font-weight: bold;
+}
+#table td {
+    align-items: center;
+    padding: 5px;
+    border: 1px solid #000
+}
+table td{
+    padding: 5px;
+}
+table {
+    align-self: center;
+}
